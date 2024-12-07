@@ -21,6 +21,8 @@ End of the program
     a=np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
     eigenvalues,eigenvectors=np.linalg.eig(a)
     print("Eigen values are",eigenvalues,"and Eigen Vectors are",eigenvectors)
+
+    
 ## Output:
 ![alt text](<Screenshot (66).png>)
 ## Result:
